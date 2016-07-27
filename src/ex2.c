@@ -13,7 +13,6 @@
 
 int main(void) {
 	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
-	puts("\n add line1 here ");
 	puts("\n add line12 here ");
 	puts("\n add line3 here ");
 	return EXIT_SUCCESS;
