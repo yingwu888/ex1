@@ -8,5 +8,6 @@
 ### practice 1: git remote, git push, git pull, git add, git commit
 ### practice 2: git add --interactive
 ### practice 3: git branch
+	* modify the file on topic branch
 ### practice 4: git stash
 ### practice 5: git merge 
