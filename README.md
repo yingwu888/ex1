@@ -9,5 +9,6 @@
 ### practice 2: git add --interactive
 ### practice 3: git branch
 	* modify the file on topic branch
+	* merge using external merge tool: MELD 
 ### practice 4: git stash
 ### practice 5: git merge 
